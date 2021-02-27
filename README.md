@@ -9,3 +9,5 @@ Several state estimation methods have been employed for modeling linear and nonl
 In this report, we present a method to jointly learn coupled 𝐾𝐹 and 𝑃𝐹 models, which we call Markov Jump Particle Filter (𝑀𝐽𝑃𝐹), and that we use for multidimensional probabilistic anomaly measurement. As un-supervised learning method we use Self-organizing Maps (𝑆𝑂𝑀) to learn switching variables vocabulary. This report proposes a strategy to incremental learning and abnormality detection task.
 figure below shows the block diagram of the proposed method.
 This report is structured as follows: Section 1 presents the training and testing dataset. Section 2 presents a discussion on the training phase. section 3 results of the testing phase and section 4 shows the conclusions and possible future developments.
+
+![Class Diagram](Multimedia/Incremental_Learning.PNG)
